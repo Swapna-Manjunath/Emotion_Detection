@@ -1,26 +1,26 @@
 # Recognition of Face Emotion in Real-Time using OpenCV 
 <br>
-<b>Overview:</b> <br>
+<b><u>Overview:</u></b> <br>
 This project implements a real-time facial emotion recognition system using OpenCV for face detection and the DeepFace library for emotion analysis. The application captures live video from a webcam, detects faces, and classifies their emotions.
 <br><br>
-<b>Features:</b><br>
+<b><u>Features:</u></b><br>
 Real-time face detection using Haar cascades.<br>
 Emotion analysis using the DeepFace library with pre-trained models.<br>
 Annotates detected faces with their dominant emotion in the video feed.<br>
 Simple and intuitive implementation with minimal dependencies.<br> <br>
-<b>Technologies Used:</b> <br>
-Python: Core programming language. <br>
-OpenCV: For video capture, face detection, and frame manipulation. <br>
-DeepFace: For deep learning-based emotion recognition. <br>
-Haar Cascades: For real-time face detection. <br><br>
-<b>Project Workflow:</b><br>
-Face Detection:
+<b><u>Technologies Used:</u></b> <br>
+<b>Python:</b> Core programming language. <br>
+<b>OpenCV:</b> For video capture, face detection, and frame manipulation. <br>
+<b>DeepFace:</b> For deep learning-based emotion recognition. <br>
+<b>Haar Cascades:</b> For real-time face detection. <br><br>
+<b><u>Project Workflow:</u></b><br>
+<b>Face Detection:</b>
 Uses OpenCV’s Haar cascades to detect faces in real-time.<br>
-Emotion Analysis:
+<b>Emotion Analysis:</b>
 The DeepFace library analyzes each detected face and predicts the dominant emotion.<br>
-Display Results:
+<b>Display Results:</b>
 The detected emotion is displayed alongside a bounding box around the face.<br><br>
-<b>Output Example Emotions are:</b><br>
+<b><u>Output Example Emotions are:</u></b><br>
 Happy,
  Sad,
  Angry,
