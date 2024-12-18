@@ -1,6 +1,6 @@
 # Recognition of Face Emotion in Real-Time using OpenCV 
 <br>
-Overview
+**Overview:** <br>
 This project implements a real-time facial emotion recognition system using OpenCV for face detection and the DeepFace library for emotion analysis. The application captures live video from a webcam, detects faces, and classifies their emotions.
 <br><br>
 Features:<br>
