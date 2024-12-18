@@ -12,12 +12,12 @@ Simple and intuitive implementation with minimal dependencies.<br> <br>
 Python: Core programming language. <br>
 OpenCV: For video capture, face detection, and frame manipulation. <br>
 DeepFace: For deep learning-based emotion recognition. <br>
-Haar Cascades: For real-time face detection. <br>
+Haar Cascades: For real-time face detection. <br><br>
 <b>Project Workflow:</b><br>
 Face Detection:
-Uses OpenCV’s Haar cascades to detect faces in real-time.
+Uses OpenCV’s Haar cascades to detect faces in real-time.<br>
 Emotion Analysis:
-The DeepFace library analyzes each detected face and predicts the dominant emotion.
+The DeepFace library analyzes each detected face and predicts the dominant emotion.<br>
 Display Results:
 The detected emotion is displayed alongside a bounding box around the face.<br><br>
 <b>Output Example Emotions are:</b><br>
