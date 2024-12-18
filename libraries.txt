@@ -1,0 +1,5 @@
+Ensure the following Python libraries are installed:
+
+    1. opencv-python
+    2. DeepFace
+    3. numpy
